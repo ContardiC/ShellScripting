@@ -7,3 +7,5 @@ x=$(($x+1))
 echo $x
 x=`expr $x + 1`
 echo $x
+echo "inserisci il primo numero"
+read numero
